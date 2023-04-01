@@ -1,5 +1,5 @@
-# laravel-twilio-helper
-Laravel helper class for twilio sdk
+# twilio-helper-service-for-laravel
+Helper class for working with twilio sdk in Laravel
 
 How to use:
 ```
